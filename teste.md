@@ -2,7 +2,9 @@
 <!-- SUBTITLE: Nada a declarar -->
 
 # TESTE?!
-Estou testando. Essa é a wiki do [RPG da Galera](#rpg-da-galera)
+Estou testando. Essa é a wiki do [RPG da Galera](rpg-da-galera)
+[teste](teste)
+[oxente](oxente)
 ## Teste.
 Sim, um teste.
 ### O palhaço o joker.
