@@ -10,3 +10,7 @@ Para a criação de uma nova personagem, as seguintes informações devem ser de
 * Aliados
 * Tesouros
 * Habilidades
+
+## Espécies
+Artigo principal: [Espécies](especies).
+As espécies jogáveis no RPG da Galera são:
