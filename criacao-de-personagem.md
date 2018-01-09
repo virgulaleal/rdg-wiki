@@ -11,13 +11,21 @@ Para a criação de uma nova personagem, as seguintes informações devem ser de
 * [Tesouros](#tesouros)
 * [Habilidades](#habilidades)
 
-As opções disponíveis em cada categoria variam a cada campanha. São definidas pelo Mestre, ou sorteadas aleatóriamente.
-
-
+As opções disponívels são definidas pelo Mestre, ou sorteadas aleatóriamente; elas variam a cada campanha.
 
 # Espécies
 Artigo principal: [Espécie](especie).
 As espécies jogáveis no RPG da Galera são:
+
+* [Arvorente](especie/arvorente)
+* [Calamare](especie/calamare)
+* [Dracono](especie/dracono)
+* [Fauno](especie/fauno)
+* [Floridente](especie/floridente)
+* [Geo](especie/geo)
+* [Gnomano](especie/gnomano)
+* [Gnomo](especie/gnomo)
+* [Humano](especie/humano)
 
 # Classes
 Artigo principal: [Classe](classe).
