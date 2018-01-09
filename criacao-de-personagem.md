@@ -32,7 +32,7 @@ Feitos de pedra maciça, Geos são muito resistentes, imunes à magia e incapaze
 * [Gnomano](especie/gnomano)
 Híbridos nascidos da união entre Humanos e Gnomos. Conhecidos por serem absolutamente imprevisíveis.
 * [Gnomo](especie/gnomo)
-Humanóides diminutos e cabeçudos com um incomparável gosto por cogumelos. Gnomos são supostamente os guardiões dos segredo da [Terra](terra), mas eles não tem a memória muito boa.
+Humanóides diminutos e cabeçudos com um incomparável gosto por cogumelos. Gnomos são supostamente os guardiões dos segredo do [Barro](barro), mas eles não tem a memória muito boa.
 * [Humano](especie/humano)
 Os habitantes sapientes originais do planeta. Bípedes frágeis e relativamente inteligentes. Inventores das [Escolas da Magia](magia).
 
