@@ -3,14 +3,17 @@
 
 # Criação de Personagem
 Para a criação de uma nova personagem, as seguintes informações devem ser definidas:
+* [Espécie](#Espécies)
+* [Classe](#Classes)
+* [Natureza](#Naturezas)
+* [Atributo](#Atributos)
+* [Aliados](#Aliados)
+* [Tesouros](#Tesouros)
+* [Habilidades](#Habilidades)
 
-* Espécie
-* Classe
-* Natureza
-* Atributo
-* Aliados
-* Tesouros
-* Habilidades
+As opções disponíveis em cada categoria variam a cada campanha. São definidas pelo Mestre, ou sorteadas aleatóriamente.
+
+
 
 # Espécies
 Artigo principal: [Espécie](especie).
