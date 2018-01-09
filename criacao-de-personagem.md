@@ -38,7 +38,20 @@ Os habitantes sapientes originais do planeta. Bípedes frágeis e relativamente 
 
 # Classes
 Artigo principal: [Classe](classe).
+
+A classe de sua personagem não define necessáriamente a sua profissão atual, mas define o arquétipo de seu comportamento e a justificação de suas proficiências.
+
 As classes jogáveis no RPG da Galera são:
+
+* Magus
+	* Encanturgista
+	* Conjurista
+	* Encarnaturgista
+	* Emoturgista
+* Herbalista
+* Alquimista
+* Bardo
+* Soldado
 
 * Alquimista
 * Pistoleiro
