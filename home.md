@@ -3,3 +3,5 @@
 
 # RPG da Galera
 É um RPG jogado pela galera. Supimpa!
+
+[Criação de Personagem](criacao-de-personagem).
