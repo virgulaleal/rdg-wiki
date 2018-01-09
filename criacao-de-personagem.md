@@ -11,12 +11,25 @@ Para a criação de uma nova personagem, as seguintes informações devem ser de
 * Tesouros
 * Habilidades
 
-## Espécies
-Artigo principal: [Espécies](especies).
+# Espécies
+Artigo principal: [Espécie](especie).
 As espécies jogáveis no RPG da Galera são:
-### Humano
-Humanos gostam de ir na praia e tomar um sol.
-### Cachorro
-Cachorros gostam de ir na praia e dar um mergulho.
-### Papagaio
-Papagaios gostam de ir na praia e ficar na brisa.
+
+# Classes
+Artigo principal: [Classe](classe).
+As classes jogáveis no RPG da Galera são:
+
+# Naturezas
+Artigo principal: [Natureza](natureza).
+
+# Atributos
+Artigo principal: [Atributo](atributo).
+
+# Aliados
+Artigo principal: [Aliado](aliado).
+
+# Tesouros
+Artigo principal: [Tesouro](tesouro).
+
+# Habilidades
+Artigo principal: [Habilidade](habilidade).
