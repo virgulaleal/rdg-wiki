@@ -40,6 +40,45 @@ Os habitantes sapientes originais do planeta. Bípedes frágeis e relativamente 
 Artigo principal: [Classe](classe).
 As classes jogáveis no RPG da Galera são:
 
+* Alquimista
+* Pistoleiro
+* Bardo
+* Berserker
+* Necromante
+* Tesoureiro
+* Bucaneiro
+* Cabalista
+* Cavaleiro da Morte
+* Psicomante
+* Encantriz
+* Piromante
+* Carnomante
+* Lenhador
+* Hidromante
+* Mágico
+* Monge
+* Paladino
+* Petalante
+* Titereiro
+* Ranger
+* Rouge
+* Runeiro
+* Dobrador de Areia
+* Cozinheiro
+* Shaman
+* Espadachim
+* Legislador
+* Sorcereiro
+* Antimago
+* Solare
+* Pirata
+* Templário
+* Thane
+* Theurgista
+* Guerreiro
+* Bruxa
+* Mago
+
 # Naturezas
 Artigo principal: [Natureza](natureza).
 
