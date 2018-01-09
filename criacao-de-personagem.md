@@ -10,7 +10,6 @@ Para a criação de uma nova personagem, as seguintes informações devem ser de
 * [Aliados](#aliados)
 * [Tesouros](#tesouros)
 * [Habilidades](#habilidades)
-* <Aliados>
 
 As opções disponívels são definidas pelo Mestre, ou sorteadas aleatóriamente; elas variam a cada campanha.
 
