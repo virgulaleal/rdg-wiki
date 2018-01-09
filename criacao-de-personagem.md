@@ -62,8 +62,7 @@ As classes jogáveis no RPG da Galera são:
 	* Cavalaria Mendicante
 * [Psicomante]()
 
-
-
+-----
 
 * Alquimista
 * Pistoleiro
