@@ -1,8 +1,9 @@
 <!-- TITLE: Criação De Personagem -->
-<!-- SUBTITLE: Regras para a criação de personagens. -->
+<!-- SUBTITLE: Regras e detalhes para a criação de personagens. -->
 
 # Criação de Personagem
 Para a criação de uma nova personagem, as seguintes informações devem ser definidas:
+
 * Espécie
 * Classe
 * Natureza
