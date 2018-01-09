@@ -18,8 +18,11 @@ Artigo principal: [Espécie](especie).
 As espécies jogáveis no RPG da Galera são:
 
 * [Arvorente](especie/arvorente)
+	Nascidos das sementes caídas das costas dos dragões, Arvorentes são vegetais vivos. Seus pensamentos são compartilhados, seus corpos são formados de diversos indivíduos pensantes em unissom.
 * [Calamare](especie/calamare)
+	Moluscos anfíbios e sapientes com um talento instintivo para matemática natural. Vivem em grandes sociedades subaquáticas e não tem muito respeitos por outras espécies.
 * [Dracono](especie/dracono)
+	Descendentes dos servos mais próximos dos Dragões, mutantes distorcidos pela influência dracônicas em suas formas físicas. Capazes de praticar magia dracônica sem nenhum treinamento, geralmente com resultados catastróficos.
 * [Fauno](especie/fauno)
 * [Floridente](especie/floridente)
 * [Geo](especie/geo)
