@@ -14,6 +14,7 @@ As opções disponívels são definidas pelo Mestre, ou sorteadas aleatóriament
 
 # Espécies
 Artigo principal: [Espécie](especie).
+
 As espécies jogáveis no RPG da Galera são:
 
 * [Arvorente](especie/arvorente)
