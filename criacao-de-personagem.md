@@ -42,83 +42,42 @@ A classe de sua personagem não define necessáriamente a sua profissão atual, 
 
 As classes jogáveis no RPG da Galera são:
 
-* [Arrebique](classe/)
-* [Magus](classe/magus)
-	* Encanturgista
-	* Conjurista
-	* Encarnaturgista
-	* Emoturgista
-* [Herbalista](classe/)
-* [Menestrel](classe/)
-* [Soldado](classe/)
-* [Defuntista](classe/)
-* [Demonologista](classe/)
-* [Cavalaria do Barro](classe/)
-	* Alta Cavalaria
-	* Cavalaria Popular
-* [Cavalaria Dracônica](classe/)
-	* Cavalaria Geis
-	* Cavalaria Beligerante
-	* Cavalaria Peregrina
-	* Cavalaria Mendicante
-* [Cavalaria Paladina](classe/)
-* [Psicomante](classe/)
-* [Títere](classe/)
-* [Lenhador](classe/)
-* [Clarividente](classe/)
-* [Ilusionista](classe/)
-* [Monge](classe/)
-	* Monge Fisiculturista
-	* Monge Escriba
-* [Floriculturista](classe/)
-* [Caçador](classe/)
-* [Chef](classe/)
-* [Xamã](classe/)
-* [Espadachim](classe/)
-* [Legislador](classe/)
-* [Inquisidor](classe/)
-* [Astrologista](classe/)
-* [Nobre](classe/)
-
------
-
-* [Arrebique](classe/)
-* [Astrologista](classe/)
-* [Cavalaria Dracônica](classe/)
+* [Arrebique](classe/arrebique)
+* [Cavalaria Dracônica](classe/cavalaria-draconica)
 	* Cavalaria Beligerante
 	* Cavalaria Geis
 	* Cavalaria Mendicante
 	* Cavalaria Peregrina
-* [Cavalaria Paladina](classe/)
-* [Cavalaria do Barro](classe/)
+* [Cavalaria Real](classe/cavalaria-real)
 	* Alta Cavalaria
 	* Cavalaria Paladina
-* [Caçador](classe/)
-* [Chef](classe/)
-* [Clarividente](classe/)
-* [Demonologista](classe/)
-* [Espadachim](classe/)
-* [Floriculturista](classe/)
-* [Herbalista](classe/)
-* [Ilusionista](classe/)
-* [Inquisidor](classe/)
-* [Legislador](classe/)
-* [Lenhador](classe/)
-* [Magus](classe/)
+* [Caçador](classe/cacador)
+* [Chef](classe/chef)
+* [Clarividente](classe/clarividente)
+* [Demonologista](classe/demonologista)
+* [Dracomagus](classe/dracomagus)
+* [Espadachim](classe/espadachim)
+* [Floriculturista](classe/floriculturista)
+* [Herbalista](classe/herbalista)
+* [Ilusionista](classe/ilusionista)
+* [Inquisidor](classe/inquisidor)
+* [Legislador](classe/legislador)
+* [Lenhador](classe/lenhador)
+* [Magus](classe/magus)
 	* Magus Conjurista
 	* Magus Emoturgista
 	* Magus Encaturgista
 	* Magus Encarnaturgista
-* [Menestrel](classe/)
-* [Monge](classe/)
+* [Menestrel](classe/menestrel)
+* [Monge](classe/monge)
 	* Monge Escriba
 	* Monge Fisiculturista
-* [Mortus](classe/)
-* [Nobre](classe/)
-* [Psicomante](classe/)
-* [Soldado](classe/)
-* [Títere](classe/)
-* [Xamã](classe/)
+* [Mortus](classe/mortus)
+* [Nobre](classe/nobre)
+* [Psicomante](classe/psicomante)
+* [Soldado](classe/soldado)
+* [Títere](classe/titere)
+* [Xamã](classe/xama)
 
 # Naturezas
 Artigo principal: [Natureza](natureza).
