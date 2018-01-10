@@ -42,6 +42,7 @@ A classe de sua personagem não define necessáriamente a sua profissão atual, 
 
 As classes jogáveis no RPG da Galera são:
 
+* [Arrebique](classe/)
 * [Magus](classe/magus)
 	* Encanturgista
 	* Conjurista
@@ -71,7 +72,6 @@ As classes jogáveis no RPG da Galera são:
 	* Monge Escriba
 * [Floriculturista](classe/)
 * [Caçador](classe/)
-* [Arrebique](classe/)
 * [Chef](classe/)
 * [Xamã](classe/)
 * [Espadachim](classe/)
@@ -82,44 +82,43 @@ As classes jogáveis no RPG da Galera são:
 
 -----
 
-* Alquimista
-* Pistoleiro
-* Bardo
-* Berserker
-* Necromante
-* Tesoureiro
-* Bucaneiro
-* Cabalista
-* Cavaleiro da Morte
-* Psicomante
-* Encantriz
-* Piromante
-* Carnomante
-* Lenhador
-* Hidromante
-* Mágico
-* Monge
-* Paladino
-* Petalante
-* Titereiro
-* Ranger
-* Rouge
-* Runeiro
-* Dobrador de Areia
-* Cozinheiro
-* Shaman
-* Espadachim
-* Legislador
-* Sorcereiro
-* Antimago
-* Solare
-* Pirata
-* Templário
-* Thane
-* Theurgista
-* Guerreiro
-* Bruxa
-* Mago
+* [Arrebique](classe/)
+* [Astrologista](classe/)
+* [Cavalaria Dracônica](classe/)
+	* Cavalaria Beligerante
+	* Cavalaria Geis
+	* Cavalaria Mendicante
+	* Cavalaria Peregrina
+* [Cavalaria Paladina](classe/)
+* [Cavalaria do Barro](classe/)
+	* Alta Cavalaria
+	* Cavalaria Paladina
+* [Caçador](classe/)
+* [Chef](classe/)
+* [Clarividente](classe/)
+* [Demonologista](classe/)
+* [Espadachim](classe/)
+* [Floriculturista](classe/)
+* [Herbalista](classe/)
+* [Ilusionista](classe/)
+* [Inquisidor](classe/)
+* [Legislador](classe/)
+* [Lenhador](classe/)
+* [Magus](classe/)
+	* Magus Conjurista
+	* Magus Emoturgista
+	* Magus Encaturgista
+	* Magus Encarnaturgista
+* [Menestrel](classe/)
+* [Monge](classe/)
+	* Monge Escriba
+	* Monge Fisiculturista
+* [Mortus](classe/)
+* [Nobre](classe/)
+* [Psicomante](classe/)
+* [Soldado](classe/)
+* [Títere](classe/)
+* [Xamã](classe/)
 
 # Naturezas
 Artigo principal: [Natureza](natureza).
