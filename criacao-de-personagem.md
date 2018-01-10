@@ -1,6 +1,5 @@
 <!-- TITLE: Criação De Personagem -->
 <!-- SUBTITLE: Regras e detalhes para a criação de personagens. -->
-![Mr](/uploads/mr.png "Mr"){.pagelogo}
 # Criação de Personagem
 Para a criação de uma nova personagem, as seguintes informações devem ser definidas:
 * [Espécie](#espécies)
