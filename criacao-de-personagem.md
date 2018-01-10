@@ -42,26 +42,42 @@ A classe de sua personagem não define necessáriamente a sua profissão atual, 
 
 As classes jogáveis no RPG da Galera são:
 
-* [Magus]()
+* [Magus](classe/magus)
 	* Encanturgista
 	* Conjurista
 	* Encarnaturgista
 	* Emoturgista
-* [Herbalista]()
-* [Alquimista]()
-* [Bardo]()
-* [Soldado]()
-* [Defuntista]()
-* [Demonologista]()
-* [Cavalaria do Barro]()
-* [Cavalaria do Dragão]()
+* [Herbalista](classe/)
+* [Menestrel](classe/)
+* [Soldado](classe/)
+* [Defuntista](classe/)
+* [Demonologista](classe/)
+* [Cavalaria do Barro](classe/)
+	* Alta Cavalaria
+	* Cavalaria Popular
+* [Cavalaria do Dragão](classe/)
 	* Cavalaria Geis
 	* Cavalaria Beligerante
 	* Cavalaria Peregrina
 	* Cavalaria Mendicante
-* [Psicomante]()
-
-
+* [Cavalaria Paladina](classe/)
+* [Psicomante](classe/)
+* [Títere](classe/)
+* [Lenhador](classe/)
+* [Clarividente](classe/)
+* [Ilusionista](classe/)
+* [Monge](classe/)
+	* Monge Fisiculturista
+	* Monge Escriba
+* [Floriculturista](classe/)
+* [Caçador](classe/)
+* [Arrebique](classe/)
+* [Chef](classe/)
+* [Xamã](classe/)
+* [Espadachim](classe/)
+* [Legislador](classe/)
+* [Inquisidor](classe/)
+* 
 
 -----
 
