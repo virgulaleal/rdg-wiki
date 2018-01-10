@@ -55,7 +55,7 @@ As classes jogáveis no RPG da Galera são:
 * [Cavalaria do Barro](classe/)
 	* Alta Cavalaria
 	* Cavalaria Popular
-* [Cavalaria do Dragão](classe/)
+* [Cavalaria Dracônica](classe/)
 	* Cavalaria Geis
 	* Cavalaria Beligerante
 	* Cavalaria Peregrina
