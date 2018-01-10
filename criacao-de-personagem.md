@@ -77,7 +77,8 @@ As classes jogáveis no RPG da Galera são:
 * [Espadachim](classe/)
 * [Legislador](classe/)
 * [Inquisidor](classe/)
-* 
+* [Astrologista](classe/)
+* [Nobre](classe/)
 
 -----
 
