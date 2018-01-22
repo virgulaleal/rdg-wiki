@@ -3,7 +3,7 @@
 
 # Personagens Jogadores (PJs)
 * **[Amenophs Aton](personagens/amenophs)**
-		*[Fauno Felino](especies/fauno#Felino), treinado como [Monge](classes/monge), desprendido de seus ensinamentos e da fortuna de sua família.*
+*[Fauno Felino](especies/fauno#Felino), treinado como [Monge](classes/monge), desprendido de seus ensinamentos e da fortuna de sua família.*
 * **[Bianca](personagens/bianca)**
 	*[Floridente](especies/floridente), oportunista, acostumada a viver dos frutos da terra e do [trabalho manual](classes/lenhador).*
 * **[Onima](personagens/nilma)**
