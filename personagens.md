@@ -11,4 +11,5 @@
 * **[Tectonius](personagens/tectonius)**
 *Um [Geo](especies/geo) de puras intenções, fascinado pela beleza da natureza, por esta feito [Herbalista](classes/herbalista).*
 # Personagens Não Jogadores (PNJs)
-* [Rei Bagunça](personagens/rei-bagunca)
+* **[Rei Bagunça](personagens/rei-bagunca)**
+*O bodegueiro de uma bodega misteriosa.*
