@@ -16,13 +16,14 @@
 
 # Modelo de Portfólio
 <table>
-	<center>
   <tr>
     <th colspan="4">PORTFÓLIO DE PERSONAGEM</th>
   </tr>
   <tr>
+		<center>
 		<td colspan="2"><strong>Espécie</strong> <br/ > - </td>
     <td colspan="2"><strong>Classe</strong>   <br/ > - </td>
+		</center>
   </tr>
   <tr>
     <td><strong>Arma/Escudo</strong>        <br/ > - </td>
@@ -54,5 +55,4 @@
     <td><strong>Poder/Item</strong>            <br/ > - </td>
     <td><strong>Poder/Item</strong>            <br/ > - </td>
   </tr>
-	</center>
 </table>
