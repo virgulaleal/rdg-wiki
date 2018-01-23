@@ -22,7 +22,7 @@
     <th colspan="4">PORTFÓLIO DE PERSONAGEM</th>
   </tr>
   <tr>
-    <td colspan="2">Espécie <br/ > Geo</td>
+		<td colspan="2"><center><strong>Espécie</strong> <br/ > Geo </center></td>
     <td colspan="2">Classe</td>
   </tr>
   <tr>
