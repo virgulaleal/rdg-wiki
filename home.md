@@ -4,7 +4,7 @@
 # RPG da Galera
 <table>
   <tr>
-    <th colspan="4">Personagem: Tectonius</th>
+		<th colspan="4"><b>Personagem: Tectonius</b></th>
   </tr>
   <tr>
 		<td><b>Nome:</b> Tectonius</td>
