@@ -23,22 +23,22 @@
     <td colspan="2"><center><strong>Classe</strong>   <br/ > Herbalista </center></td>
   </tr>
   <tr>
-    <td><center><strong>Arma/Escudo</strong>        <br/ > - </center></td>
+    <td><center><strong>Arma/Escudo</strong>        <br/ > Escudo Vivo </center></td>
 		<td><center><strong>Arma</strong>                     <br/ > - </center></td>
-    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
-    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > Balestra Pesada </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > Botas da Escalada </center></td>
   </tr>
   <tr>
-    <td><center><strong>Armadura</strong>              <br/ > - </center></td>
+    <td><center><strong>Armadura</strong>              <br/ > Peles Encantadas </center></td>
 		<td><center><strong>Arma</strong>                     <br/ > - </center></td>
-    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
-    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > Estandarte de Batalha </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > Totem da Inspiração de To </center></td>
   </tr>
   <tr>
     <td><center><strong>Passiva/Consorte</strong> <br/ > - </center></td>
 		<td><center><strong>Passiva</strong>                 <br/ > - </center></td>
-    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
-    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > Boticário </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > Apotecário Encantado </center></td>
   </tr>
   <tr>
     <td><center><strong>Passiva/Consorte</strong> <br/ > - </center></td>
