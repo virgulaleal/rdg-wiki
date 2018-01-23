@@ -1,7 +1,6 @@
 <!-- TITLE: Tectonius -->
 <!-- SUBTITLE: Herbalista Geo -->
 
-# Tectonius
 <table>
   <tr>
 		<th colspan="4">Personagem: Tectonius</th>
@@ -13,4 +12,5 @@
     <td><strong>Classe:</strong> Herbalista</td>
   </tr>
 </table>
+# Tectonius
 
