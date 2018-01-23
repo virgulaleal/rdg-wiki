@@ -12,7 +12,9 @@
     <td><strong>Classe:</strong> Monge</td>
   </tr>
 </table>
+
 # Portfólio
+
 <table>
   <tr>
     <th colspan="4">PORTFÓLIO DE PERSONAGEM</th>
@@ -52,5 +54,7 @@
     <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
   </tr>
 </table>
+
 # História
+
 [pendente]
