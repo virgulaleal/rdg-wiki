@@ -5,6 +5,5 @@
 
 É um RPG jogado pela galera. Supimpa!
 
-**[Personagens](personagens)**
-
-[Criação de Personagem](criacao-de-personagem).
+* [Personagens](personagens)
+* [Criação de Personagem](criacao-de-personagem).
