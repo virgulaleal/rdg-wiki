@@ -7,7 +7,7 @@
   </tr>
   <tr>
 		<td><strong>Nome: </strong>Bianca</td>
-    <td><strong>Jogador: </strong>Ducky</td>
+    <td><strong>Jogadora: </strong>Ducky</td>
     <td><strong>Espécie: </strong>Floridente</td>
     <td><strong>Classe: </strong>Lenhador</td>
   </tr>
