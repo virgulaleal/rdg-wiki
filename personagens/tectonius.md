@@ -23,7 +23,7 @@
   </tr>
   <tr>
 		<td colspan="2"><center><strong>Espécie</strong> <br/ > Geo </center></td>
-    <td colspan="2">Classe</td>
+    <td colspan="2"><center><strong>Classe</strong> <br/ > Herbalista </center></td>
   </tr>
   <tr>
     <td>Arma/Escudo</td>
