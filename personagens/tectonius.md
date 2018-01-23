@@ -26,7 +26,7 @@
     <td><center><strong>Arma/Escudo</strong>        <br/ > Escudo Vivo </center></td>
 		<td><center><strong>Arma</strong>                     <br/ > - </center></td>
     <td><center><strong>Poder/Item</strong>            <br/ > Balestra Pesada </center></td>
-    <td><center><strong>Poder/Item</strong>            <br/ > Botas da Escalada </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > Botas de Escalada </center></td>
   </tr>
   <tr>
     <td><center><strong>Armadura</strong>              <br/ > Peles Encantadas </center></td>
