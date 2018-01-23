@@ -26,10 +26,10 @@
     <td colspan="2"><center><strong>Classe</strong> <br/ > Herbalista </center></td>
   </tr>
   <tr>
-    <td>Arma/Escudo</td>
-    <td>Arma</td>
-    <td>Pode/Item</td>
-    <td>Poder/Item</td>
+    <td><center><strong>Arma/Escudo</strong> <br/ > - </center></td>
+		<td><center><strong>Arma</strong>              <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>     <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>     <br/ > - </center></td>
   </tr>
   <tr>
     <td>Armadura</td>
