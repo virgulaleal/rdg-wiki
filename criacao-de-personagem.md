@@ -17,8 +17,7 @@ As espécies jogáveis no RPG da Galera são:
 Vegetais vivos com alta capacidade de regeneração. Seus pensamentos são compartilhados, seus corpos são formados por colônias de múltiplos indivíduos.
 * [Calamare](especie/calamare)
 Moluscos anfíbios e sapientes com um talento instintivo para a matemática natural. Vivem em grandes sociedades subaquáticas e não tem muito respeito por outras espécies.
-* [Dracono](especie/dracono)
-Mutantes de aparência monstruosa, distorcidos pela influência [dracônica](dragao) em suas formas físicas. Capazes de praticar magia dracônica sem nenhum treinamento, geralmente com resultados catastróficos.
+* 
 * [Fauno](especie/fauno)
 Possuem aparência híbrida de humano e animal. Perpetuam hábitos tribais e costumam viver nas periferias de grandes civilizações.
 * [Floridente](especie/floridente)
