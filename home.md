@@ -7,10 +7,10 @@
     <th colspan="4">Personagem: Tectonius</th>
   </tr>
   <tr>
-	<td><em>Nome:</em> Tectonius</td>
-    <td>Jogador: Voa</td>
-    <td>Espécie: Geo</td>
-    <td>Classe: Herbalista</td>
+		<td><b>Nome:</b> Tectonius</td>
+    <td><b>Jogador:</b> Voa</td>
+    <td><b>Espécie:</b> Geo</td>
+    <td><b>Classe:</b> Herbalista</td>
   </tr>
 </table>
 
