@@ -13,9 +13,6 @@
   </tr>
 </table>
 
-# História
-[pendente]
-
 # Portfólio
 <table>
   <tr>
@@ -56,3 +53,7 @@
     <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
   </tr>
 </table>
+
+# História
+[pendente]
+
