@@ -6,4 +6,5 @@
 É um RPG jogado pela galera. Supimpa!
 
 * [Personagens](personagens)
-* [Criação de Personagem](criacao-de-personagem).
+* [Criação de Personagem](criacao-de-personagem)
+* [História do Barro](historia-do-barro)
