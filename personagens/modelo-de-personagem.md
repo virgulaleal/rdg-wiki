@@ -1,4 +1,4 @@
-<!-- TITLE: .Modelo de Personagem -->
+<!-- TITLE: [Modelo de Personagem] -->
 <!-- SUBTITLE: Classe, Espécie -->
 
 <table>
