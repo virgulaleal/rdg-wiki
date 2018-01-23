@@ -8,9 +8,9 @@
   </tr>
   <tr>
 		<td><strong>Nome:</strong> Tectonius</td>
-    <td><b>Jogador:</b> Voa</td>
-    <td><b>Espécie:</b> Geo</td>
-    <td><b>Classe:</b> Herbalista</td>
+    <td><strong>Jogador:</strong> Voa</td>
+    <td><strong>Espécie:</strong> Geo</td>
+    <td><strong>Classe:</strong> Herbalista</td>
   </tr>
 </table>
 
