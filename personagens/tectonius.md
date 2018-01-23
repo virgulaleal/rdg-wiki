@@ -13,3 +13,4 @@
     <td><strong>Classe:</strong> Herbalista</td>
   </tr>
 </table>
+
