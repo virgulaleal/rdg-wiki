@@ -4,7 +4,7 @@
 # Tectonius
 <table>
   <tr>
-		<th colspan="4"><strong>Personagem:</strong> Tectonius</th>
+		<th colspan="4">Personagem: Tectonius</th>
   </tr>
   <tr>
 		<td><strong>Nome:</strong> Tectonius</td>
