@@ -20,37 +20,37 @@
     <th colspan="4">PORTFÓLIO DE PERSONAGEM</th>
   </tr>
   <tr>
-    <td colspan="2">Espécie</td>
-    <td colspan="2">Classe</td>
+		<td colspan="2"><center><strong>Espécie</strong> <br/ > Geo </center></td>
+    <td colspan="2"><center><strong>Classe</strong>   <br/ > Herbalista </center></td>
   </tr>
   <tr>
-    <td>Arma/Escudo</td>
-    <td>Arma</td>
-    <td>Pode/Item</td>
-    <td>Poder/Item</td>
+    <td><center><strong>Arma/Escudo</strong>        <br/ > - </center></td>
+		<td><center><strong>Arma</strong>                     <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
   </tr>
   <tr>
-    <td>Armadura</td>
-    <td>Arma</td>
-    <td>Poder/Item</td>
-    <td>Poder/Item</td>
+    <td><center><strong>Armadura</strong>              <br/ > - </center></td>
+		<td><center><strong>Arma</strong>                     <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
   </tr>
   <tr>
-    <td>Passiva/Consorte</td>
-    <td>Passiva</td>
-    <td>Poder/Item</td>
-    <td>Poder/Item</td>
+    <td><center><strong>Passiva/Consorte</strong> <br/ > - </center></td>
+		<td><center><strong>Passiva</strong>                 <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
   </tr>
   <tr>
-    <td>Passiva/Consorte</td>
-    <td>Passiva</td>
-    <td>Poder/Item</td>
-    <td>Poder/Item</td>
+    <td><center><strong>Passiva/Consorte</strong> <br/ > - </center></td>
+		<td><center><strong>Passiva</strong>                 <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
   </tr>
   <tr>
-    <td>Passiva/Consorte</td>
-    <td>Passiva</td>
-    <td>Poder/Item</td>
-    <td>Poder/Item</td>
+    <td><center><strong>Passiva/Consorte</strong> <br/ > - </center></td>
+		<td><center><strong>Passiva</strong>                 <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
+    <td><center><strong>Poder/Item</strong>            <br/ > - </center></td>
   </tr>
 </table>
